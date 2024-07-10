@@ -41,5 +41,8 @@ This game was built using the following resources:
 - [W3Schools](https://www.w3schools.com/) for additional tutorials and examples
 
 ---
+## Live Demo of the Game
+[Click the link to play the game](https://mlakshmipraharsha07.github.io/Ping-Pong-Game/)
+
 
 I hope you enjoy playing this game! Let me know if you have any questions or feedback.
